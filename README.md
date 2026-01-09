@@ -2,7 +2,7 @@
 
 ## Cella AI is an intelligent document assistant that allows users to upload PDFs and Word documents and interact with them using natural language. It analyzes document content and provides accurate, context-aware answers, summaries, and key insights.
 
-##🚀 Project Overview
+## 🚀 Project Overview
 
 Built using LangChain and Google Gemini AI, Cella AI reads and understands uploaded documents to deliver meaningful responses. The system is lightweight, modular, and designed to be easily extended based on different use cases.
 
@@ -37,5 +37,6 @@ LLM Framework: LangChain
 Model: Google Generative AI (Gemini-2.5-Flash)
 
 Language: Python 3.13
+
 
 
