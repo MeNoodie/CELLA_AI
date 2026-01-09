@@ -1,26 +1,39 @@
-## 🌟 Cella Assistant: AI-Powered PDF/Doc Chatbot 🤖
-Cella Assistant is a professional RAG-based (Retrieval-Augmented Generation) chatbot designed to analyze your documents (PDFs/Docs) and provide instant, context-aware answers. This project was built to explore the inner workings of Large Language Models (LLMs) and vector-based information retrieval.
+🌟 Cella AI Assistant – AI-Powered PDF/Doc Chatbot 🤖
 
-## 🚀 Project Overview
-Developed using LangChain and Google Gemini AI, this assistant extracts context from uploaded files to provide meaningful insights. Whether you need to generate exam questions from study materials or summarize complex financial reports, Cella Assistant handles it with ease.
+Cella AI is an intelligent document assistant that allows users to upload PDFs and Word documents and interact with them using natural language. It analyzes document content and provides accurate, context-aware answers, summaries, and key insights.
 
-## ✨ Key Features
-Multi-Format Upload: Seamlessly upload and process PDFs and Word documents.
+🚀 Project Overview
 
-Context-Aware AI: Strictly answers based on the provided document data to minimize "hallucinations."
+Built using LangChain and Google Gemini AI, Cella AI reads and understands uploaded documents to deliver meaningful responses. The system is lightweight, modular, and designed to be easily extended based on different use cases.
 
-Streamlit Interface: A clean, modern, and intuitive UI for a smooth user experience.
+For large document sizes, Cella AI can be enhanced with retrieval techniques such as chunking, embeddings, and vector databases.
 
-Rapid Analysis: Quickly scans long documents to identify important questions, summaries, and key takeaways.
+✨ Key Features
 
-Smart Retrieval: Uses advanced text-splitting and vector search to find the most relevant information.
+📄 Multi-format support (PDF & DOCX)
+
+🧠 Context-aware answers based only on document data
+
+⚡ Fast analysis for summaries and important questions
+
+🎨 Clean and modern Streamlit UI
+
+🔧 Easily customizable and extendable architecture
+
+🔮 Future Scope
+
+Add chunking & embeddings for large documents
+
+Integrate vector stores like FAISS, ChromaDB, AstraDB, or MongoDB
+
+Scalable retrieval pipelines based on project needs
 
 🛠️ Tech Stack
+
 Framework: Streamlit
 
-LLM framework: LangChain
+LLM Framework: LangChain
 
-Core Model: Google Generative AI (Gemini-2.5-Flash)
+Model: Google Generative AI (Gemini-2.5-Flash)
 
 Language: Python 3.13
-
