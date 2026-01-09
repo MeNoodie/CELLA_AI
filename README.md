@@ -1,4 +1,4 @@
-#🌟 Cella AI Assistant – AI-Powered PDF/Doc Chatbot 🤖
+# 🌟 Cella AI Assistant – AI-Powered PDF/Doc Chatbot 🤖
 
 ## Cella AI is an intelligent document assistant that allows users to upload PDFs and Word documents and interact with them using natural language. It analyzes document content and provides accurate, context-aware answers, summaries, and key insights.
 
@@ -37,4 +37,5 @@ LLM Framework: LangChain
 Model: Google Generative AI (Gemini-2.5-Flash)
 
 Language: Python 3.13
+
 
